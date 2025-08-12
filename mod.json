@@ -1,0 +1,21 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "hyixcat.iconroaster",
+	"name": "Icon Roaster",
+	"version": "1.0.0",
+	"developer": "hyixCat",
+	"description": "Roast your Geometry Dash icon with randomized insults. Adds a button to the main menu that delivers spicy feedback.",
+	"tags": [
+		"roaster",
+		"ui",
+		"cosmetic",
+		"funny"
+	],
+	"entry": "build/Debug/hyixcat.iconroaster.dll"
+}
