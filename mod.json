@@ -13,7 +13,11 @@
 	"description": "Roast your Geometry Dash icon with randomized insults. Adds a button to the main menu that delivers spicy feedback.",
 	"tags": [
 		"joke",
-		"funny"
+		"offline"
 	],
+	"repository": "https://github.com/hyixCatVR/Icon-Roaster/tree/main",
+	"support": {
+		"discord": "https://discord.gg/cCgNECjM5u"
+	},
 	"entry": "build/Debug/hyixcat.iconroaster.dll"
 }
