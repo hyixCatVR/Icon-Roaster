@@ -13,8 +13,6 @@
 	"description": "Roast your Geometry Dash icon with randomized insults. Adds a button to the main menu that delivers spicy feedback.",
 	"tags": [
 		"joke",
-		"ui",
-		"cosmetic",
 		"funny"
 	],
 	"entry": "build/Debug/hyixcat.iconroaster.dll"
