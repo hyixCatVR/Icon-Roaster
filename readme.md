@@ -24,7 +24,7 @@ See the `LICENSE` file for full terms.
 ## Support
 
 If you encounter bugs or have suggestions:
-- Discord: `hyixCat#1234`
+- Discord: `hyixcat_vr`
 - Geode Mods page: Leave a comment or review
 
 ## Author
