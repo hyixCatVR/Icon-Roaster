@@ -1,3 +1,8 @@
+⚠️ NOTICE  
+A fork of this project exists that uses my code, icon, license, and Discord link without proper attribution.  
+This is the official version. Any other version is unauthorized and not supported by me.  
+The fork in question is maintained by [RayDeeUx], and can be found [here]((https://github.com/geode-macos/Icon-Roaster)).
+
 # Icon Roaster
 
 **Icon Roaster** is a Geometry Dash mod that adds a button to the main menu which delivers randomized roast lines targeting your icon. Whether you're feeling confident or just want a laugh, this mod is here to humble you.
