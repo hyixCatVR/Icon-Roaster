@@ -1,7 +1,7 @@
 ⚠️ NOTICE  
 A fork of this project exists that uses my code, icon, license, and Discord link without proper attribution.  
 This is the official version. Any other version is unauthorized and not supported by me.  
-The fork in question is maintained by [RayDeeUx], and can be found [here]((https://github.com/geode-macos/Icon-Roaster)).
+The fork in question is maintained by **RayDeeUx**, and can be found [here]((https://github.com/geode-macos/Icon-Roaster)).
 
 # Icon Roaster
 
