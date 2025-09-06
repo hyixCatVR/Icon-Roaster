@@ -23,7 +23,7 @@ The fork in question is maintained by **RayDeeUx**, and can be found in https://
 ## License
 
 This mod is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International License**.  
-You may use, modify, and share this mod freely, but **commercial use is not allowed**.  
+You may use, modify, but not share it, and **commercial use is not allowed**.  
 See the `LICENSE` file for full terms.
 
 ## Support
